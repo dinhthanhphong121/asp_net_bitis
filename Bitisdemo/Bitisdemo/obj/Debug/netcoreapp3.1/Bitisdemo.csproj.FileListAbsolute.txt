@@ -1,0 +1,92 @@
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.exe
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.deps.json
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.runtimeconfig.json
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.runtimeconfig.dev.json
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.dll
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.pdb
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.Views.dll
+D:\Code mau\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.Views.pdb
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.csproj.AssemblyReference.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.AssemblyInfoInputs.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.AssemblyInfo.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.csproj.CoreCompileInputs.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorComponent.input.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorComponent.output.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Bitisdemo.dll
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.TagHelpers.input.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.TagHelpers.output.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorCoreGenerate.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorAssemblyInfo.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorAssemblyInfo.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\staticwebassets\Bitisdemo.StaticWebAssets.Manifest.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\staticwebassets\Bitisdemo.StaticWebAssets.xml
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bitisdemo.styles.css
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorTargetAssemblyInfo.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorTargetAssemblyInfo.cs
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.Views.pdb
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.dll
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.pdb
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.genruntimeconfig.cache
+D:\Code mau\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.csproj.CopyComplete
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.csproj.AssemblyReference.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.AssemblyInfoInputs.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.AssemblyInfo.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.csproj.CoreCompileInputs.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorComponent.input.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.dll
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.pdb
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.exe
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.deps.json
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.runtimeconfig.json
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.runtimeconfig.dev.json
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.dll
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.pdb
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.Views.dll
+D:\Bitisdemo\Bitisdemo\bin\Debug\netcoreapp3.1\Bitisdemo.Views.pdb
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorComponent.output.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\RazorDeclaration\Bitisdemo.dll
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.TagHelpers.input.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.TagHelpers.output.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorCoreGenerate.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorAssemblyInfo.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorAssemblyInfo.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\staticwebassets\Bitisdemo.StaticWebAssets.Manifest.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\staticwebassets\Bitisdemo.StaticWebAssets.xml
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bitisdemo.styles.css
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorTargetAssemblyInfo.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.RazorTargetAssemblyInfo.cs
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.Views.pdb
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.genruntimeconfig.cache
+D:\Bitisdemo\Bitisdemo\obj\Debug\netcoreapp3.1\Bitisdemo.csproj.CopyComplete
